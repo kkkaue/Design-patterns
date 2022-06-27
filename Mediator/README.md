@@ -1,0 +1,1 @@
+Como cenário, vamos supor que haja uma sala de bate-papo online e os usuários tenham reuniões 1-1 nesta sala. Devido ao padrão, os usuários não poderão se comunicar diretamente entre si, portanto, as transações serão realizadas por meio do Mediator.

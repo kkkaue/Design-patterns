@@ -1,0 +1,1 @@
+Como cenário, vamos supor que temos uma lista de funcionários e as operações são executadas nessa lista.
